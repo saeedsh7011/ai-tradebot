@@ -1,0 +1,5 @@
+ai\trader\Main.class
+ai\trader\telegram\TelegramNotifier.class
+ai\trader\strategy\RSIStrategy$Signal.class
+ai\trader\strategy\RSIStrategy.class
+ai\trader\TestRSI.class
